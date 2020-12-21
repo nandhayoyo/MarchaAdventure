@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.marchaadventure">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DaftarGunungJawa"></activity>
+        <activity android:name=".DaftarPerPribadi"/>
+        <activity android:name=".GunungCikuray"/>
+        <activity android:name=".GunungCiremai"/>
+        <activity android:name=".GunungSalak"/>
+        <activity android:name=".GunungGuntur"/>
+        <activity android:name=".GunungGede"/>
+        <activity android:name=".Perlengkapan"/>
+        <activity android:name=".DaftarEmergency"/>
+        <activity android:name=".DaftarPerKelompok"/>
+        <activity android:name=".PerlengkapanKelompok.PerKelompok1"/>
+        <activity android:name=".PerlengkapanKelompok.PerKelompok2"/>
+        <activity android:name=".PerlengkapanKelompok.PerKelompok3"/>
+        <activity android:name=".PerlengkapanKelompok.PerKelompok4"/>
+        <activity android:name=".PerlengkapanKelompok.PerKelompok5"/>
+        <activity android:name=".PerPribadi.PerPribadi1"/>
+        <activity android:name=".PerPribadi.PerPribadi2"/>
+        <activity android:name=".PerPribadi.PerPribadi3"/>
+        <activity android:name=".PerPribadi.PerPribadi4"/>
+        <activity android:name=".PerPribadi.PerPribadi5"/>
+        <activity android:name=".PerPribadi.PerPribadi6"/>
+        <activity android:name=".PerPribadi.PerPribadi7"/>
+        <activity android:name=".PerPribadi.PerPribadi8"/>
+        <activity android:name=".PerPribadi.PerPribadi9"/>
+        <activity android:name=".PerPribadi.PerPribadi10"/>
+        <activity android:name=".PerPribadi.PerPribadi11"/>
+        <activity android:name=".PerPribadi.PerPribadi12"/>
+        <activity android:name=".PerPribadi.PerPribadi13"/>
+        <activity android:name=".PerPribadi.PerPribadi14"/>
+        <activity android:name=".PerPribadi.PerPribadi15"/>
+        <activity android:name=".PerPribadi.PerPribadi16"/>
+        <activity android:name=".PerPribadi.PerPribadi17"/>
+        <activity android:name=".PerPribadi.PerPribadi18"/>
+        <activity android:name=".PerPribadi.PerPribadi19"/>
+        <activity android:name=".PerPribadi.PerPribadi20"/>
+        <activity android:name=".Logistik"/>
+        <activity android:name=".Survival"/>
+        <activity android:name=".Emergency.Emergency1"/>
+        <activity android:name=".Emergency.Emergency2"/>
+        <activity android:name=".Emergency.Emergency3"/>
+        <activity android:name=".Emergency.Emergency4"/>
+        <activity android:name=".Emergency.Emergency5"/>
+        <activity android:name=".Emergency.Emergency6"/>
+        <activity android:name=".Emergency.Emergency7"/>
+        <activity android:name=".Emergency.Emergency8"/>
+        <activity android:name=".Tentang"/>
+        <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
+
+</manifest>

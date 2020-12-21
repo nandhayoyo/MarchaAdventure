@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/white">
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:paddingLeft="20dp" android:paddingRight="20dp" android:paddingBottom="52dp">
+
+        <TextView android:id="@+id/textViewJudul" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="LOGISTIK" android:layout_marginTop="25dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+
+
+
+            android:id="@+id/textViewLog1" android:textColor="@color/black" android:layout_marginTop="40dp" android:textStyle="bold" android:layout_below="@id/textViewJudul" android:text="Logistik1" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar1" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog1" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog1_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar1" android:text="DetailLogistik1" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog2" android:textColor="@color/black" android:layout_marginTop="30dp" android:textStyle="bold" android:layout_below="@id/textViewLog1_2" android:text="Logistik2" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar2" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog2" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog2_2" android:layout_marginTop="15dp"
+
+
+
+            android:layout_below="@id/gambar2" android:text="DetailLogistik2" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog3" android:layout_marginTop="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_below="@id/textViewLog2_2" android:text="Logistik3" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar3" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog3" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog3_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar3" android:text="DetailLogistik3" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog4" android:layout_marginTop="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_below="@id/textViewLog3_2" android:text="Logistik4" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar4" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog4" />
+
+
+
+
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog4_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar4" android:text="DetailLogistik4" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog5" android:layout_marginTop="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_below="@id/textViewLog4_2" android:text="Logistik5" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar5" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog5" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog5_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar5" android:text="DetailLogistik5" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog6" android:layout_marginTop="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_below="@id/textViewLog5_2" android:text="Logistik6" />
+
+        <ImageView
+
+
+
+            android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar6" android:paddingLeft="20dp" android:layout_marginTop="10dp" android:layout_below="@+id/textViewLog6" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog6_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar6" android:text="DetailLogistik6" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog7" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold" android:layout_below="@id/textViewLog6_2" android:text="Logistik7" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar7" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog7" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog7_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar7" android:text="DetailLogistik7" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog8" android:layout_marginTop="30dp"
+
+
+
+            android:textColor="@color/black" android:textStyle="bold" android:layout_below="@id/textViewLog7_2" android:text="Logistik8" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar8" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog8" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog8_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar8" android:text="DetailLogistik8" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog9" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold" android:layout_below="@id/textViewLog8_2" android:text="Logistik9" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar9" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog9" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog9_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar9" android:text="DetailLogistik9" />
+
+
+
+
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog10" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold" android:layout_below="@id/textViewLog9_2" android:text="Logistik9" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar10" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog10" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog10_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar10" android:text="DetailLogistik10" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog11" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+            android:layout_below="@id/textViewLog10_2" android:text="Logistik11" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar11" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog11" />
+
+        <TextView
+
+
+
+            android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog11_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar11" android:text="DetailLogistik11" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog12" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+            android:layout_below="@id/textViewLog11_2" android:text="Logistik12" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar12" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog12" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog12_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar12" android:text="DetailLogistik12" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog13" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+            android:layout_below="@id/textViewLog12_2" android:text="Logistik13" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp"
+
+
+
+            android:id="@+id/gambar13" android:paddingLeft="20dp" android:layout_marginTop="10dp" android:layout_below="@+id/textViewLog13" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog13_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar13" android:text="DetailLogistik13" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog14" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+            android:layout_below="@id/textViewLog13_2" android:text="Logistik14" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar14" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog14" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog14_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar14" android:text="DetailLogistik14" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog15" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+
+
+
+            android:layout_below="@id/textViewLog14_2" android:text="Logistik15" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar15" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog15" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog15_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar15" android:text="DetailLogistik15" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog16" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+            android:layout_below="@id/textViewLog15_2" android:text="Logistik16" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar16" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog16" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog16_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar16" android:text="DetailLogistik16" />
+
+        <TextView
+
+
+
+            android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog17" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold" android:layout_below="@id/textViewLog16_2" android:text="Logistik17" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar17" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog17" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog17_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar17" android:text="DetailLogistik17" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewLog18" android:layout_marginTop="30dp" android:textColor="@color/black" android:textStyle="bold"
+            android:layout_below="@id/textViewLog17_2" android:text="Logistik18" />
+
+        <ImageView android:layout_width="250dp" android:layout_height="150dp" android:id="@+id/gambar18" android:paddingLeft="20dp" android:layout_marginTop="10dp"
+            android:layout_below="@+id/textViewLog18" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+
+
+
+            android:id="@+id/textViewLog18_2" android:layout_marginTop="15dp" android:layout_below="@id/gambar18" android:text="DetailLogistik18" />
+    </RelativeLayout>
+</ScrollView>

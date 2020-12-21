@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="52dp">
+
+        <TextView
+            android:id="@+id/textViewJudul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EMERGENCY"
+            android:layout_marginTop="25dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:textSize="25sp"/>
+
+        <ImageView
+            android:layout_width="317dp"
+            android:layout_height="200dp"
+            android:id="@+id/gambar1"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:layout_below="@+id/textViewJudul" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewEmer1_2"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/gambar1"
+            android:text="DetaiEmergency1" />
+    </RelativeLayout>
+</ScrollView>

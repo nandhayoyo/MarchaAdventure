@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:background="@color/black"
+        android:text="PERLENGKAPAN"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/buttonPribadi"
+        android:layout_width="wrap_content"
+        android:layout_height="290dp"
+        android:layout_below="@id/judul"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_weight="1"
+        android:background="@drawable/pribadi"
+        android:onClick="pribadi" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonPribadi"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="9dp"
+        android:layout_marginStart="17dp"
+        android:text="PRIBADI"
+        android:textColor="@color/red"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:typeface="normal" />
+
+    <ImageButton
+        android:id="@+id/buttonKelompok"
+        android:layout_width="wrap_content"
+        android:layout_height="290dp"
+        android:onClick="kelompok"
+        android:layout_marginRight="3dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="3dp"
+        android:layout_weight="1"
+        android:layout_below="@+id/buttonPribadi"
+        android:background="@drawable/kelompok" />
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonKelompok"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginBottom="9dp"
+        android:text="KELOMPOK"
+        android:textColor="@color/red"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</RelativeLayout>

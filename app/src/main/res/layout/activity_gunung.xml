@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+
+
+
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="25dp"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/textViewJudul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NAMA GUNUNG"
+                android:layout_marginTop="25dp"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="@color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp">
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_width="310dp"
+                            android:layout_height="match_parent"
+                            android:paddingRight="5dp"
+                            android:id="@+id/gambar1"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="310dp"
+                            android:layout_height="match_parent"
+                            android:paddingRight="5dp"
+                            android:id="@+id/gambar2"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="310dp"
+                            android:layout_height="match_parent"
+                            android:paddingRight="5dp"
+                            android:id="@+id/gambar3"
+                            android:layout_weight="1" />
+
+                    </LinearLayout>
+                </HorizontalScrollView>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textViewGunung"
+                    android:layout_marginTop="15dp"
+                    android:text="DetailGunung" />
+
+                <TextView
+                    android:id="@+id/textViewGunung2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="Rute"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="320dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/gambar4"/>
+
+                <TextView
+                    android:id="@+id/textViewGunung3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

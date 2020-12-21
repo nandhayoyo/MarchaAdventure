@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Marcha Adventure</string>
+    <string name="cikurai1">Gunung cikuray adalah sebuah gunung bertipe Stratovolcano yang terletak di Dayeuhmanggung, Kabupaten Garut, Jawa Barat, Indonesia
+                Gunung Cikuray yang mempunyai ketinggian 2.821 meter di atas permukaan laut ini tidak mempunyai kawah aktif dan merupakan gunung tertinggi keempat di Jawa Barat setelah Gunung Ciremai, Gunung Pangrango dan Gunung Gede
+                Gunung ini berada di perbatasan kecamatan Bayongbong dari sini bisa naik melalui jalur Cilegug atau kampung Jambansari dekat markas HdG Team, Cikajang, Kiara Janggot dan Dayeuhmanggung
+                Curah hujan di sekitar Gunung Cikuray mencapai 3500-4000mm dengan kalkulasi bulan basah 9 bulan dan bulan kering 3 bulan dan juga variasi temperatur dari 10º C hingga 24º C."</string>
+
+    <string name="cikurai2">Untuk mencapai Cikuray dapat ditempuh dengan naik kendaraan umum dari Bandung atau dari Tasikmalaya menuju terminal Guntur. Dari sana diteruskan dengan angkutan kota menuju jalur pendakian, (Desa Dangiang, Bayongbong, Cikajang, dan Dayeuhmanggung)
+                Kalkulasi perjalanan via Bremi:
+                Polsek Krucil (Bremi) – Danau Taman Hidup (4jam)</string>
+
+    <string name="gede1">Gunung Gede merupakan sebuah gunung api bertipe stratovolcano yang berada di Pulau Jawa
+                Gunung Gede berada dalam ruang lingkup Taman Nasional Gede Pangrango, yang merupakan salah satu dari lima taman nasional yang pertama kali diumumkan di Indonesia pada tahun 1980
+                Gunung ini berada di dua wilayah kabupaten yaitu Kabupaten Cianjur dan Sukabumi, dengan ketinggian 1.000 - 2.958 m. dpl, dan berada pada lintang 106°51\' - 107°02\' BT dan 64°1\' - 65°1 LS.
+                Suhu rata-rata di puncak gunung Gede 18 °C dan di malam hari suhu puncak berkisar 5 °C, dengan curah hujan rata-rata 3.600 mm/tahun. Gerbang utama menuju gunung ini adalah dari Cibodas dan Cipanas.</string>
+
+    <string name="gede2">Untuk mencapai lokasi Taman Nasional Gede Pangrango bisa ditempuh melalui rute Jakarta-Bogor-Cibodas dengan waktu sekitar 2,5 jam (± 100 km) menggunakan mobil, atau Bandung-Cipanas-Cibodas dengan waktu 2 jam (± 89 km), dan Bogor-Salabintana dengan waktu 2 jam (52 km).
+                Kalkulasi perjalanan via Bremi:
+                Polsek Krucil (Bremi) – Danau Taman Hidup (4jam)</string>
+
+    <string name="guntur">Gunung Guntur adalah sebuah gunung berapi bertipe stratovolcano yang terdapat di Sirnajaya, Tarogong Kaler, Kabupaten Garut, Jawa Barat, dan memiliki ketinggian 2.249 meter dpl
+                Gunung Guntur pernah menjadi gunung berapi paling aktif di pulau Jawa pada dekade 1800 an. Tapi sejak itu aktivitasnya kembali menurun
+                Gunung Guntur berdekatan dengan gunung-gunung lainya yang mengelilingi kota Garut. Di sebelah selatan Gunung Guntur, ada Gunung Putri yang berhadapan dengan Gunung Cikuray dan Gunung Papandayan, kemudian di sebelah barat ada Gunung Masigit, Gunung Parupuyan, dan gunung lainnya.
+                Suhu rata-rata di puncak gunung Gede 18 °C dan di malam hari suhu puncak berkisar 5 °C, dengan curah hujan rata-rata 3.600 mm/tahun. Gerbang utama menuju gunung ini adalah dari Cibodas dan Cipanas.</string>
+    <string name="guntur2">Menyusuri daerah wisata di Garut tidak akan lengkap jika belum mengunjungi pegunungannya. Kota Intan yang terkenal dengan keasrian alam dan udara sejuknya ini sering menjadi tujuan wisata bagi para backpacker dan pecinta alam. Apalagi pada saat liburan sekolah, alam pegunungan di Kota Garut tidak pernah sepi pengunjung. Terkenal dengan sebutan gunung api, gunung yang berketinggian 2.249 mdpl ini menjadi sebuah ikon selamat datang di Kota Garut karena memang wilayahnya terletak di dekat perbatasan, tepatnya di daerah Sukawangi Tarogong Kaler.</string>
+
+    <string name="salak">Gunung Salak merupakan kompleks gunung berapi yang terletak di selatan Jakarta, di Pulau Jawa
+                Pengelolaan kawasan hutannya semula berada di bawah Perum Perhutani Kesatuan Pemangkuan Hutan (KPH) Bogor, tetapi sejak 2003 menjadi wilayah perluasan Taman Nasional Gunung Halimun, dan dikelola sebagai Taman Nasional Gunung Halimun-Salak.
+                Gunung Salak berusia relatif tua sehingga memiliki beberapa puncak. Geoposisi puncak tertinggi gunung ini ialah 6°43\' LS dan 106°44\' BT dan dinamakan Puncak Salak I dengan ketinggian puncak 2.211 m dari permukaan laut (dpl.).
+                Banyak yang mengira asal nama "Salak" adalah dari tanaman salak, akan tetapi sesungguhnya berasal dari kata bahasa Sanskerta, salaka yang berarti "perak"</string>
+
+    <string name="salak2">Pendakian Gunung Salak dapat melalui beberapa jalur pendakian. Puncak yang sering didaki adalah puncak I dan II. Puncak Salak I dapat didaki dari arah Cimelati dekat Cicurug, Cidahu Sukabumi atau Kawah Ratu Gunung Bunder.</string>
+
+    <string name="ciremai">Gunung Ciremai  adalah gunung berapi kerucut yang secara administratif termasuk dalam wilayah dua kabupaten, yakni Kabupaten Kuningan dan Kabupaten Majalengka, Provinsi Jawa Barat
+                Posisi geografis puncaknya terletak pada 6° 53\' 30\" LS dan 108° 24\' 00\" BT, dengan ketinggian 3.078 m di atas permukaan laut. Gunung ini merupakan gunung tertinggi di Jawa Barat
+                Kawah barat yang beradius 400 m terpotong oleh kawah timur yang beradius 600 m. Pada ketinggian sekitar 2.900 m dpl di lereng selatan terdapat bekas titik letusan yang dinamakan Gowa Walet.
+                Kini G. Ceremai termasuk ke dalam kawasan Taman Nasional Gunung Ciremai (TNGC), yang memiliki luas total sekitar 15.000 hektare.</string>
+
+    <string name="ciremai2">Puncak gunung Ceremai dapat dicapai melalui banyak jalur pendakian. Jalur pendakian tersebut meliputi Desa Palutungan dan Desa Linggarjati di Kab. Kuningan, dan Desa Apuy di Kab. Majalengka. Ada satu jalur pendakian baru yaitu melalui Desa Linggasana di Kec. Cilimus, Kab. Kuningan. Jalur di Desa Linggasana yang dibuka tahun 2010 juga mudah diakses karena masih satu trayek jalan raya dengan jalur di Desa Linggarjati
+                Kalkulasi perjalanan via Bremi:
+                Polsek Krucil (Bremi) – Danau Taman Hidup (4jam)</string>
+</resources>

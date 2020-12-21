@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+
+
+
+        android:paddingLeft="20dp" android:paddingRight="20dp" android:paddingBottom="52dp">
+
+        <TextView android:id="@+id/textViewJudul" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="SURVIVAL" android:layout_marginTop="25dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur" android:layout_marginTop="30dp" android:layout_below="@id/textViewJudul" android:text="Survival" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur1" android:textColor="@color/black" android:layout_marginTop="30dp" android:textStyle="bold" android:layout_below="@id/textViewSur" android:text="Survival1" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur1_2" android:layout_marginTop="15dp" android:layout_below="@id/textViewSur1" android:text="DetailSurvival1" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur2" android:textColor="@color/black"
+
+
+
+            android:layout_marginTop="30dp" android:textStyle="bold" android:layout_below="@id/textViewSur1_2" android:text="Survival2" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur2_2" android:layout_marginTop="15dp" android:layout_below="@id/textViewSur2" android:text="DetailSurvival2" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur3" android:layout_marginTop="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_below="@id/textViewSur2_2" android:text="Survival3" />
+
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur3_2" android:layout_marginTop="15dp" android:layout_below="@id/textViewSur3" android:text="DetailSurvival3" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur4" android:layout_marginTop="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_below="@id/textViewSur3_2" android:text="Survival4" />
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/textViewSur4_2"
+
+
+
+            android:layout_marginTop="15dp" android:layout_below="@id/textViewSur4" android:text="DetailSurvival4" />
+
+        <Button
+            android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_below="@id/textViewSur4_2" android:background="@color/black" android:textColor="@color/white" android:onClick="Act_Survival2" android:id="@+id/buttonSurvival2" android:text="Pengetahuan Survival Skill Ketika Berada di
+Gunung Atau Alam Bebas"/>
+    </RelativeLayout>
+</ScrollView>
